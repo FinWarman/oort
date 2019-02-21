@@ -11,5 +11,4 @@ Winner *HackKings 5.0 (2018) -*
 Submission: [Oort Devpost Submission](https://devpost.com/software/oort)
 Hackathon:  [HackKings 5.0 Devpost Page](https://hackkings5.devpost.com/)
 
-![Oort Screenshot]
-(https://github.com/finwarman/oort/blob/master/oort-screenshot.png)
+![Oort Screenshot](https://github.com/finwarman/oort/blob/master/oort-screenshot.png)
